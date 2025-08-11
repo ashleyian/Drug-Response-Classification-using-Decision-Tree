@@ -30,7 +30,7 @@ drug-classification-decision-tree/
 ## 🚀 How to Run
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/drug-classification-decision-tree.git
+   git clone https://github.com/ashleyian/drug-classification-decision-tree.git
    cd drug-classification-decision-tree
 
 
@@ -39,3 +39,4 @@ drug-classification-decision-tree/
 
 3. Run the script:
     python drug_classification.py
+
